@@ -1,1 +1,6 @@
-{"NickName": "grand kiwi"}
+{
+    "welcome": {
+        "to": "kiwi bot api"
+    },
+    "name": "grand_kiwi" 
+}
