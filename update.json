@@ -136,5 +136,12 @@
     "description": [
         "`>>mute everyone` 뿐만 아니라 `>>mute @everyone`도 가능하게 패치하였습니다\n    `>>unmute도 지원함`"
     ]
+},
+{
+    "title": "2021-3-17 업데이트",
+    "content": "1가지가 업데이트되었습니다",
+    "description": [
+        "`>>docs` 명령어가 `Snorlax` 덕분에 추가되었습니다"
+    ]
 }
 ]
