@@ -150,5 +150,12 @@
     "description": [
         "`>>userinfo` 여러 봇들의 정보에도 유저 정보가 아닌 봇 정보로 타이틀이 변경됬습니다"
     ]
+},
+{
+    "title": "2021-3-27 업데이트",
+    "content": "1가지가 업데이트되었습니다",
+    "description": [
+        "음악 기능이 추가되었습니다! `>>music`을 입력하여 자세히 확인해보세요!\n음악 소스 출처는 https://github.com/galnir/Master-Bot 입니다"
+    ]
 }
 ]
