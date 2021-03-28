@@ -157,5 +157,12 @@
     "description": [
         "음악 기능이 추가되었습니다! `>>music`을 입력하여 자세히 확인해보세요!\n    음악 소스 출처는 https://github.com/galnir/Master-Bot 입니다"
     ]
+},
+{
+    "title": "2021-3-28 패치",
+    "content": "1가지가 패치되었습니다",
+    "description": [
+        "`>>clear` 원래 100개까지 지원했으나 현재 1천개까지 지원합니다"
+    ]
 }
 ]
